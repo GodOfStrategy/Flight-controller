@@ -1,0 +1,36 @@
+﻿Designator,Footprint,Value,,Generic-Name,Qty,Source,Total Price ($),Product link
+C1,0402,47 nF,,Capacitors,20,20 JLCPCB,0.068,https://jlcpcb.com/partdetail/83376-0402B473K500NT/C82219
+"C2,C3",0402,22 uF,,,20,20 JLCPCB,0.394,https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525
+C4,0805,10 uf,,,5,5 JLCPCB,1.0915,https://jlcpcb.com/partdetail/125403-GRM21BR61A476ME15L/C124129
+"C10,C11,C16,C17,C9",0805,100 nF,,,18,18 JLCPCB,2.1114,https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783
+"C12,C13,C14,C5,C8",0805,10 uF,,,10,10 JLCPCB,0.912,https://jlcpcb.com/partdetail/439567-GRM21BR61H106KE43L/C440198
+"C15,C18,C19,C20,C21,C26,C28,C29,C30,C31,C32,C7",0402,20 pF,,,34,34 JLCPCB,0.204,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525
+"C22,C23",0402,6.8 pF,,,20,20 JLCPCB,0.066,https://jlcpcb.com/partdetail/1906-0402CG200J500NT/C1554
+"C24,C25",0402,2.2 uF,,,20,20 JLCPCB,0.048,https://jlcpcb.com/partdetail/1928-0402CG6R8C500NT/C1576
+C27,0402,1 uF,,,20,20 JLCPCB,0.154,https://jlcpcb.com/partdetail/13164-CL05A225MQ5NSNC/C12530
+"C33,C34,C35,C36,C6",0402,44 uF,,,20,20 JLCPCB,0.282,https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923
+CARD1,SMD,TF-01A,C91145,SD Card Slot,2,2 JLCPCB,0.3802,https://jlcpcb.com/partdetail/Korean_HropartsElec-TF01A/C91145
+D1,0805,LED,,LED,20,20 JLCPCB,0.244,https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805B/C2293
+J1,"插件,P=2.54mm",Screw_Terminal_01x02,,Screw Terminal,2,2 JLCPCB,0.48,https://jlcpcb.com/partdetail/Ningbo_Xinlaiya_Elec-XY308_2_542P/C557685
+L1,1210,1 uH,,,6,6 JLCPCB,0.696,https://jlcpcb.com/partdetail/100626-CMI322513U1R0KT/C99412
+L2,1008,1.5 uH,,Inductors,6,6 JLCPCB,0.2256,https://jlcpcb.com/partdetail/XR-XRNR252010_1_5uHN/C5289259
+L3,1210,5.6uH,,,6,6 JLCPCB,0.2748,https://jlcpcb.com/partdetail/TDK-NLV32T_5R6JPF/C87563
+L4,0603,FCM1608KF-601T03,C141723,Ferrite Bead,20,20 JLCPCB,0.202,https://jlcpcb.com/partdetail/TAITECH-FCM1608KF601T03/C141723
+"R1,R2",0402,5.1K,,Resistors,20,20 JLCPCB,0.018,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905
+R9,0201,30.1K,,,20,20 JLCPCB,0.012,https://jlcpcb.com/partdetail/301723-RC01W3012FT/C320818
+R10,0201,383,,,20,20 JLCPCB,0.012,https://jlcpcb.com/partdetail/416501-0201WMF3830TEE/C423551
+R11,0201,5.23K,,,20,20 JLCPCB,0.022,https://jlcpcb.com/partdetail/RALEC-RTT015231FTH/C332546
+"R12,R13,R16,R17,R18,R19,R20,R21,R22,R3,R4,R5,R6,R7,R8",0201,10K,,,40,40 JLCPCB,0.032,https://jlcpcb.com/partdetail/FOJAN-FRC0201J103TS/C7467266
+R14,0805,100K,,,20,20 JLCPCB,0.064,https://jlcpcb.com/partdetail/160838-0805W8F1003T5E/C149504
+R15,0201,22.1K,,,20,20 JLCPCB,0.02,https://jlcpcb.com/partdetail/Walsin_TechCorp-WR02X2212FAL/C384418
+"SW1,SW2","SMD,4x3mm",TS-1088-AR02016,,Switches,8,8 JLCPCB,0.4408,https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477
+U1,VQFN-24-EP(4x4),BQ25883RGER,C720477,battery Management,2,2 JLCPCB,8.189,https://jlcpcb.com/partdetail/TexasInstruments-BQ25883RGER/C544362
+U2,VQFN-15-HR(2.5x3),TPS63070RNMR,C544362,Buck convertor (5V),2,2 JLCPCB,2.6384,https://jlcpcb.com/partdetail/TexasInstruments-TPS63070RNMR/C109322
+U3,SOT-23-6-THIN(DDC),LMR51430,C109322,Buck convertor,2,2 JLCPCB,1.73,https://jlcpcb.com/partdetail/TexasInstruments-LMR51430YFDDCR/C5219261
+U4,LGA-10(2x2),BMP580,,Barometer,2,2 JLCPCB,2.6674,https://jlcpcb.com/partdetail/BoschSensortec-BMP580/C22391138
+U5,LGA-14(3x2.5),ICM-45686,C22391138,IMU,2,2 JLCPCB,25.8362,https://jlcpcb.com/partdetail/TDKInvenSense-ICM45686/C22459454
+U6,LQFP-64(10x10),STM32F722RETx,C22459454,MCU,2,2 JLCPCB,12.522,https://jlcpcb.com/partdetail/STMicroelectronics-STM32F722RET6/C118207
+USB1,SMD,TYPE-C16PIN2MD,,USB-C,3,3 JLCPCB,0.2205,https://jlcpcb.com/partdetail/SHOUHAN-TYPE_C_16PIN_2MD_073/C2765186
+X1,SMD3225-4P,X322525MOB4SI,C2765186,25 MHz Quartz Crystal,6,6 JLCPCB,0.618,https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322525MOB4SI/C9006
+X2,SMD3215-2P,Q13FC1350000400,C9006,32.768 KHz Quartz Crystal,5,5 JLCPCB,0.8635,https://jlcpcb.com/partdetail/SeikoEpson-Q13FC13500004/C32346
+,,,,,,,,
