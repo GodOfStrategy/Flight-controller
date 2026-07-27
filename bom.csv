@@ -1,5 +1,5 @@
-Designator,Footprint,Value,LCSC Part #,Generic-Name,Qty,Source,Unit Price ($),Product link,Total ($)
-C1,0402,47 nF,C82219,Capacitors,20,JLCPCB,0.068,https://jlcpcb.com/partdetail/83376-0402B473K500NT/C82219,1.36
+Designator,Footprint,Value,LCSC Part #,Generic-Name,Qty,Source,Unit Price ($),Product link,Total ($),Final Total ($)
+C1,0402,47 nF,C82219,Capacitors,20,JLCPCB,0.068,https://jlcpcb.com/partdetail/83376-0402B473K500NT/C82219,1.36,206.47
 "C2,C3",0402,22 uF,C15525,Capacitors,20,JLCPCB,0.394,https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525,7.88
 C4,0805,10 uF,C124129,Capacitors,5,JLCPCB,1.0915,https://jlcpcb.com/partdetail/125403-GRM21BR61A476ME15L/C124129,5.46
 "C10,C11,C16,C17,C9",0805,100 nF,C45783,Capacitors,18,JLCPCB,2.1114,https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783,38.00
