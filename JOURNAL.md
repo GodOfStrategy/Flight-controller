@@ -52,7 +52,7 @@ Here is y routing progress so far:
 
 # 5/16/2026 6 AM - Grouping components for routing
 
-_Time spent: 1.616666666666667h_
+_Time spent: 0.5h_
 
 Grouped components together for routing later. I also changed the inductor footprints for L1,L2,L3 to 1210 metric since I need the magnetically shielded ones. I will be starting the pcb routing next time!
 ![image](https://stasis.hackclub-assets.com/images/1778914201699-erxr6c.png)
@@ -77,7 +77,7 @@ I'll continue PCB routing next time.
 
 # 5/14/2026 5 PM - Completed schematis
 
-_Time spent: 4.033333333333333h_
+_Time spent: 2h_
 
 I faced issues with the initail easyeda2kicad library. The frist time I rant it it worked fine, but the next time, I imported some more components it didnt work out, the symbols were present in the files but KiCAD said the file was not readable. So, like a wise guy, I posted it on SLACK! 
 ![image](https://stasis.hackclub-assets.com/images/1778777917754-ossqzp.png)
@@ -105,7 +105,7 @@ Then, I also downloaded the STM32MXCUBE to configure the pin outs. Here are my p
 
 # 4/29/2026 4 PM - Schematics and importing symbols,footprints
 
-_Time spent: 4.5h_
+_Time spent: 2.5h_
 
 I want to make a flight controller following @NotARoomba's guide (https://blueprint.hackclub.com/starter-projects/flightcontroller) , with the following parts:
 USB-C,
