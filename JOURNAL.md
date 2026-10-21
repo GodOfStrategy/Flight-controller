@@ -27,7 +27,7 @@ SO, I completed the PCB routing last time, and today I instaleld the jlc plugin 
 
 # 5/20/2026 12 PM - PCB Finishing
 
-_Time spent: 3.666666666666667h_
+_Time spent: 3.h_
 
 After discussing with @NotARoomba I figured out the Missing pins, they were supposed to be SCL and SDA. Thanks to @NotARoomba for fixing the guide, and guiding me! I also resolved the unconencted errors in the DRC, and sorted the clearance violations in the DRC
 ![image](https://stasis.hackclub-assets.com/images/1779281819681-j9pm3d.png)
@@ -41,7 +41,7 @@ Here is how my PCB looks:
 
 # 5/17/2026 7 AM - PCB Routing
 
-_Time spent: 4.716666666666667h_
+_Time spent: 2.6h_
 
 I then put together the groupd that i amde last time, and routed them accordingly. Also I noticed that, we have labeled pins like the BP_SCK,BP_SDI, but we never connected them to anything?! So I did the best thing, asked on slack!https://hackclub.slack.com/archives/C083S537USC/p1779000859915969
 Here is y routing progress so far:
