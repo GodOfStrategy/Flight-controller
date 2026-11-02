@@ -10,13 +10,13 @@ This is my BoM (also in a .csv file in the repo):
 | C1 | 0402 | 47 nF | C82219 | Capacitors | 20 | JLCPCB | 0.068 | https://jlcpcb.com/partdetail/83376-0402B473K500NT/C82219 | 1.36 |
 | C2, C3 | 0402 | 22 uF | C15525 | Capacitors | 20 | JLCPCB | 0.394 | https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525 | 7.88 |
 | C4 | 0805 | 10 uF | C124129 | Capacitors | 5 | JLCPCB | 1.0915 | https://jlcpcb.com/partdetail/125403-GRM21BR61A476ME15L/C124129 | 5.46 |
-| C10, C11, C16, C17, C9 | 0805 | 100 nF | C45783 | Capacitors | 18 | JLCPCB | 2.1114 | https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783 | 38.00 |
+| C10, C11, C16, C17, C9 | 0805 | 10 uF | C45783 | Capacitors | 18 | JLCPCB | 2.1114 | https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783 | 38.00 |
 | C12, C13, C14, C5, C8 | 0805 | 10 uF | C440198 | Capacitors | 10 | JLCPCB | 0.912 | https://jlcpcb.com/partdetail/439567-GRM21BR61H106KE43L/C440198 | 9.12 |
-| C15, C18–C21, C26, C28–C32, C7 | 0402 | 20 pF | C1525 | Capacitors | 34 | JLCPCB | 0.204 | https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525 | 6.94 |
-| C22, C23 | 0402 | 6.8 pF | C1554 | Capacitors | 20 | JLCPCB | 0.066 | https://jlcpcb.com/partdetail/1906-0402CG200J500NT/C1554 | 1.32 |
-| C24, C25 | 0402 | 2.2 uF | C1576 | Capacitors | 20 | JLCPCB | 0.048 | https://jlcpcb.com/partdetail/1928-0402CG6R8C500NT/C1576 | 0.96 |
-| C27 | 0402 | 1 uF | C12530 | Capacitors | 20 | JLCPCB | 0.154 | https://jlcpcb.com/partdetail/13164-CL05A225MQ5NSNC/C12530 | 3.08 |
-| C33–C36, C6 | 0402 | 44 uF | C52923 | Capacitors | 20 | JLCPCB | 0.282 | https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923 | 5.64 |
+| C15, C18–C21, C26, C28–C32, C7 | 0402 | 100 nF | C1525 | Capacitors | 34 | JLCPCB | 0.204 | https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525 | 6.94 |
+| C22, C23 | 0402 | 20 pF | C1554 | Capacitors | 20 | JLCPCB | 0.066 | https://jlcpcb.com/partdetail/1906-0402CG200J500NT/C1554 | 1.32 |
+| C24, C25 | 0402 | 6.8 PF | C1576 | Capacitors | 20 | JLCPCB | 0.048 | https://jlcpcb.com/partdetail/1928-0402CG6R8C500NT/C1576 | 0.96 |
+| C27 | 0402 | 2.2 uF | C12530 | Capacitors | 20 | JLCPCB | 0.154 | https://jlcpcb.com/partdetail/13164-CL05A225MQ5NSNC/C12530 | 3.08 |
+| C33–C36, C6 | 0402 | 1 uF | C52923 | Capacitors | 20 | JLCPCB | 0.282 | https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923 | 5.64 |
 | CARD1 | SMD | TF‑01A | C91145 | SD Card Slot | 2 | JLCPCB | 0.3802 | https://jlcpcb.com/partdetail/Korean_HropartsElec-TF01A/C91145 | 0.76 |
 | D1 | 0805 | LED | C2293 | LED | 20 | JLCPCB | 0.244 | https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805B/C2293 | 4.88 |
 | J1 | 插件,P=2.54mm | Screw_Terminal_01x02 | C557685 | Screw Terminal | 2 | JLCPCB | 0.48 | https://jlcpcb.com/partdetail/Ningbo_Xinlaiya_Elec-XY308_2_542P/C557685 | 0.96 |
@@ -36,7 +36,11 @@ This is my BoM (also in a .csv file in the repo):
 | U2 | VQFN‑15‑HR(2.5x3) | TPS63070RNMR | C109322 | Buck Converter (5V) | 2 | JLCPCB | 2.6384 | https://jlcpcb.com/partdetail/TexasInstruments-TPS63070RNMR/C109322 | 5.28 |
 | U3 | SOT‑23‑6‑THIN | LMR51430 | C5219261 | Buck Converter | 2 | JLCPCB | 1.73 | https://jlcpcb.com/partdetail/TexasInstruments-LMR51430YFDDCR/C5219261 | 3.46 |
 | U4 | LGA‑10(2x2) | BMP580 | C22391138 | Barometer | 2 | JLCPCB | 2.6674 | https://jlcpcb.com/partdetail/BoschSensortec-BMP580/C22391138 | 5.33 |
-| U5 | LGA‑14(3x2.5) |
+| U5 | LGA‑14(3x2.5) |ICM-45686|C22459454|IMU|2|JLCPCB|$25.8362|https://www.lcsc.com/product-detail/C22459454.html|
+|U6|LQFP-64_10x10mm_P0.5mm|STM32F722RET6|C118207|MCU|2|JCLPCB|$12.5220|https://www.lcsc.com/product-detail/C118207.html|
+| USB1 | USB-C-SMD_TYPE-C-16PIN-2MD-073 | TYPE-C 16PIN 2MD | C2765186 | USB Type-C Receptacle | 2 | JLCPCB | $0.2205 | https://www.lcsc.com/product-detail/C2765186.html | 
+| X1 | CRYSTAL-SMD_4P-L3.2-W2.5-BL | X322525MOB4SI | C9006 | Crystal Oscillator | 2 | JLCPCB | $0.6180| https://www.lcsc.com/product-detail/C9006.html| 
+| X2 | FC-135R_L3.2-W1.5 | Q13FC1350000400 | C32346 | Tuning Fork Crystal | 2 | JLCPCB | $0.8635 | https://www.lcsc.com/product-detail/C32346.html | 
 | **Grand Total** |  |  |  |  |  |  |  |  | **206.47** |
 
 [bom.csv](https://github.com/user-attachments/files/29258043/bom.csv)
